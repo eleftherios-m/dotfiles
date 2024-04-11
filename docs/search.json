@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "chapter1.html",
+    "href": "chapter1.html",
+    "title": "Chapter 1",
+    "section": "",
+    "text": "Chapter 1"
+  },
+  {
     "objectID": "tac_docs.html",
     "href": "tac_docs.html",
     "title": "Test Documentation with quarto",

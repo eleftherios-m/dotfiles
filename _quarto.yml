@@ -1,5 +1,6 @@
 project:
   render:
     - tac_docs.qmd
+    - chapter1.qmd
   type: website
   output-dir: docs
